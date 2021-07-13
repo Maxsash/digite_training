@@ -15,6 +15,8 @@ public class TestsLifeCycle {
 	
 	private ArrayList<String> basket;
 	
+	//Adding a comment to test commits
+	
 	@BeforeAll
 	public static void setup() {
 		System.out.println("Executes before all test cases");
