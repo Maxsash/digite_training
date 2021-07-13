@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.digite.bank"},{"l":"com.digite.lib"},{"l":"com.digite.org"},{"l":"com.digite.stock"}];updateSearchResults();
